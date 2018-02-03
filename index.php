@@ -7,6 +7,7 @@ function testin(){
 }
 
 $fgr = 1112;
+$fgr = 1112;
 
 
 $faa = "testing ";
